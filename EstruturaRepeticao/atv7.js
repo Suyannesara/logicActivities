@@ -1,5 +1,4 @@
 //
-
 let sexo;
 let qt_f;
 let qt_m;

@@ -1,7 +1,6 @@
 
 //Faça um programa que receba o preço de 10 produtos e mostre a média de preços.
 
-//Inserção de módulo de leitura node.js (readline)
 let preco;
 let i = 1;
 

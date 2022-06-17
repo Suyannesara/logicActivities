@@ -1,0 +1,1 @@
+//Faça um programa que crie e preencha uma matriz  A [3 x 3] com números reais. Após o preenchimento da matriz, alimente uma segunda matriz B, de mesma dimensão, com os mesmos valores da matriz A multiplicados por 2. Ao final apresente a matriz B.
